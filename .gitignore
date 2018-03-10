@@ -4,3 +4,4 @@ node_modules/
 .idea
 notes.md
 catch-of-the-day/src/firebase-config.js
+catch-of-the-day/src/css/style.css
