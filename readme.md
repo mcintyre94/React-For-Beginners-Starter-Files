@@ -1,3 +1,9 @@
+# Firebase setup
+
+This app uses Firebase for its database. To use it you need to edit `catch-of-the-day/src/firebase-config.js` with your Firebase app details.
+
+---
+
 ![](http://wes.io/dgAQ/content)
 
 # React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
@@ -8,7 +14,7 @@ The code in this repo meant to be a reference point for anyone following along w
 
 ## To Start
 
-1. cd into `catch-of-the-day` and follow along with the videos
+1.  cd into `catch-of-the-day` and follow along with the videos
 
 The `stepped-solutions` Each folder contains the files for the beginning of each video should you need them. So, if you need any code, pull the appropriate file into your `catch-of-the-day` folder.
 
